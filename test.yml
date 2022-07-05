@@ -1,0 +1,10 @@
+{
+  "name": "KAREEM",
+  "age": 56,
+  "address": "7652 unity Ln, BP, MN 55443",
+  "active": true,
+  "key": {
+    "key": "value",
+    "key2": 88
+  }
+}
